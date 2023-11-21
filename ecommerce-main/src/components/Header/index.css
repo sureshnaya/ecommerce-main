@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.options {
+  color: grey;
+  font-size: 20px;
+  font-family: Roboto;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.header-logo {
+  height: 30px;
+  width: 150px;
+}
+.logout-button {
+  background-color: blue;
+  color: white;
+  font-size: 17px;
+  font-weight: 500;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  border: none;
+}
+.options-coontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+}
